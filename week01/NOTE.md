@@ -1,1 +1,4 @@
 学习笔记
+这周主要学习了git版本控制与github代码管理平台收益颇多。
+1：创建repository有两种方式，一种是新建/另外一种是fork别人的repository
+2：学会了git的一些简单操作，比如常见文件mkdir，查询文件目录：ls。
